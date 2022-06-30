@@ -6,14 +6,14 @@ This project was made to show a full ecommerce plataform made with Next.js and N
 ---
 
 ## Table of Contents
-* [Description]
-* [Technologies]
-* [Features]
+* [Description](#description)
+* [Technology](#technology)
+* [Features](#features)
 
 # Description
 This is a full ecommerce web platform that is meant to showcase my skills using Next.js. 
 
-# Technologies
+# Technology
 This project was made using the follow tech.
 
 * [Next.js](https://nextjs.org/) - To SSR and routes control     
