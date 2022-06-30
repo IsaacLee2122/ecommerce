@@ -6,21 +6,21 @@ This project was made to show a full ecommerce plataform made with Next.js and N
 ---
 
 ## Table of Contents
-* [Description](#description-description)
-* [Technologies](#computer-technologies)
-* [Features](#rocket-features)
+* [Description]
+* [Technologies]
+* [Features]
 
-# :description: Description
+# Description
 This is a full ecommerce web platform that is meant to showcase my skills using Next.js. 
 
-# :computer: Technologies
+# Technologies
 This project was made using the follow tech.
 
 * [Next.js](https://nextjs.org/) - To SSR and routes control     
 * [GraphQL](https://graphql.org/) - To query language     
 * [Apollo](https://www.apollographql.com/) - To graphql server and client          
 
-# :rocket: Features
+# Features
 
 - Authentication with Cookies Sessions.
 - Reset Password using email
