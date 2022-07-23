@@ -1,7 +1,7 @@
 # ecommerce
   
 
-This project was made to show a full ecommerce plataform made with Next.js and Nextjs Serverless functions to build the backend. This project is hosted for free on https://resilient-queijadas-0bb50b.netlify.app
+This project was made to show a full ecommerce plataform made with Next.js and Java.
 
 ---
 
@@ -11,14 +11,15 @@ This project was made to show a full ecommerce plataform made with Next.js and N
 * [Features](#features)
 
 # Description
-This is a full ecommerce web platform that is meant to showcase my skills using Next.js. 
+This is a full ecommerce web platform that is meant to showcase my skills using Next.js and Java
 
 # Technology
 This project was made using the follow tech.
 
-* [Next.js](https://nextjs.org/) - To SSR and routes control     
-* [GraphQL](https://graphql.org/) - To query language     
-* [Apollo](https://www.apollographql.com/) - To graphql server and client          
+* [Next.js]
+* [HTML]
+* [CSS]
+* [Java]
 
 # Features
 
